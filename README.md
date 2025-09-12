@@ -63,6 +63,8 @@ AI Agent:
 
 ---
 
+## Design Procedures in n8n
+
 #### To commennce designing the Agent in n8n, follow the set of procedures below:
 
 #### Start with the primer workflow here: https://github.com/manuelbomi/An-Enterprise-Agentic-AI-Primer-with-n8n  and remove the calculator component:
@@ -70,6 +72,10 @@ AI Agent:
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/35a32555-60b3-4e91-be73-d86320d4e20e" />
 
 ---
+#### Serch for Google Calendar under Tools
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9a0eac1e-9461-4746-829e-fba3d60ba61a" />
+
+----
 
 
 
