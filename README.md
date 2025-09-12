@@ -46,6 +46,44 @@ AI Agent:
 "Done! I’ve scheduled 'Project Roadmap Discussion' with John tomorrow at 3:30 PM, and added it to your Google Calendar."
 
 
+#### Define Your Data Source (e.g., a Delta Table) 
+---
+```ruby
+import org.apache.spark.sql.SparkSession;
+import org.apache.spark.sql.Dataset;
+import org.apache.spark.sql.Row;
+import org.apache.spark.sql.streaming.StreamingQuery;
+import org.apache.spark.sql.types.StructType;
+import org.apache.spark.sql.types.DataTypes;
+
+public class SimpleStreamProcessor {
+    public static void main(String[] args) throws Exception {
+        SparkSession spark = SparkSession
+            .builder()
+            .appName("SimpleStreamProcessor")
+            .getOrCreate();
+
+        // Define schema for your streaming data
+        StructType schema = DataTypes.createStructType(new org.apache.spark.sql.types.StructField[] {
+            DataTypes.createStructField("id", DataTypes.IntegerType, true),
+            DataTypes.createStructField("value", DataTypes.StringType, true),
+            DataTypes.createStructField("timestamp", DataTypes.TimestampType, true)
+        });
+
+        // Read streaming data from a Delta Lake table
+        Dataset<Row> streamingDf = spark
+            .readStream()
+            .format("delta")
+            .schema(schema) // Apply the defined schema
+            .load("/mnt/delta_tables/my_streaming_source"); // Replace with your Delta table path
+
+```
+---
+
+
+
+
+
 To commennce designing the Agent
 
 
