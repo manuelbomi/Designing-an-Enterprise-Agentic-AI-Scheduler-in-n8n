@@ -48,7 +48,7 @@ AI Agent:
 ```
 ---
 
-Below are figures showing how the Agent converse with users and execute its job via the n8n user interface:
+#### Below are figures showing how the Agent converse with users and execute its job via the n8n user interface:
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8a0eab77-491f-422c-b30e-6ea04a759b6d" />
 
@@ -62,18 +62,14 @@ Below are figures showing how the Agent converse with users and execute its job 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b590f247-6224-4cd1-857e-97d90eadff66" />
 
 ---
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/97389d95-9bf3-4698-bc7d-3d4c079b3fb6" />
+
+#### To commennce designing the Agent in n8n, follow the set of procedures below:
+
+#### Start with the primer workflow here: https://github.com/manuelbomi/An-Enterprise-Agentic-AI-Primer-with-n8n  and remove the calculator component:
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/35a32555-60b3-4e91-be73-d86320d4e20e" />
 
 ---
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/fd1b743d-e67b-4ee4-baab-01299e3adca2" />
-
-
-
-
-
-
-
-To commennce designing the Agent
 
 
 
