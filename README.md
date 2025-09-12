@@ -49,33 +49,33 @@ AI Agent:
 #### Define Your Data Source (e.g., a Delta Table) 
 ---
 ```ruby
-import org.apache.spark.sql.SparkSession;
-import org.apache.spark.sql.Dataset;
-import org.apache.spark.sql.Row;
-import org.apache.spark.sql.streaming.StreamingQuery;
-import org.apache.spark.sql.types.StructType;
-import org.apache.spark.sql.types.DataTypes;
+💬 Example Conversation Flow
 
-public class SimpleStreamProcessor {
-    public static void main(String[] args) throws Exception {
-        SparkSession spark = SparkSession
-            .builder()
-            .appName("SimpleStreamProcessor")
-            .getOrCreate();
+Here’s how a typical interaction looks once the workflow is deployed:
 
-        // Define schema for your streaming data
-        StructType schema = DataTypes.createStructType(new org.apache.spark.sql.types.StructField[] {
-            DataTypes.createStructField("id", DataTypes.IntegerType, true),
-            DataTypes.createStructField("value", DataTypes.StringType, true),
-            DataTypes.createStructField("timestamp", DataTypes.TimestampType, true)
-        });
+User:
+"Can you schedule a 30-minute meeting with John tomorrow afternoon?"
 
-        // Read streaming data from a Delta Lake table
-        Dataset<Row> streamingDf = spark
-            .readStream()
-            .format("delta")
-            .schema(schema) // Apply the defined schema
-            .load("/mnt/delta_tables/my_streaming_source"); // Replace with your Delta table path
+AI Agent:
+"Sure! Let me check your calendar for availability tomorrow afternoon..."
+
+(Agent uses Google Calendar to fetch free slots)
+
+AI Agent:
+"You are free at 2:00 PM, 3:30 PM, and 4:15 PM. Which works best for you?"
+
+User:
+"Let’s go with 3:30 PM."
+
+AI Agent:
+"Perfect. Scheduling the meeting with John at 3:30 PM tomorrow. Do you want me to add a description?"
+
+User:
+"Yes — add 'Project Roadmap Discussion'."
+
+AI Agent:
+"Done! I’ve scheduled 'Project Roadmap Discussion' with John tomorrow at 3:30 PM, and added it to your Google Calendar."
+
 
 ```
 ---
