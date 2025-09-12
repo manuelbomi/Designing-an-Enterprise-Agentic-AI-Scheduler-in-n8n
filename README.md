@@ -14,42 +14,10 @@
 
 --- 
 
-The Agent can converse with the user as shown below:
+###  💬 The Agent can converse with the user as shown below:
 
-sequencediagram
-
-💬 Example Conversation Flow
-
-Here’s how a typical interaction looks once the workflow is deployed:
-
-User:
-"Can you schedule a 30-minute meeting with John tomorrow afternoon?"
-
-AI Agent:
-"Sure! Let me check your calendar for availability tomorrow afternoon..."
-
-(Agent uses Google Calendar to fetch free slots)
-
-AI Agent:
-"You are free at 2:00 PM, 3:30 PM, and 4:15 PM. Which works best for you?"
-
-User:
-"Let’s go with 3:30 PM."
-
-AI Agent:
-"Perfect. Scheduling the meeting with John at 3:30 PM tomorrow. Do you want me to add a description?"
-
-User:
-"Yes — add 'Project Roadmap Discussion'."
-
-AI Agent:
-"Done! I’ve scheduled 'Project Roadmap Discussion' with John tomorrow at 3:30 PM, and added it to your Google Calendar."
-
-
-#### Define Your Data Source (e.g., a Delta Table) 
 ---
 ```ruby
-💬 Example Conversation Flow
 
 Here’s how a typical interaction looks once the workflow is deployed:
 
