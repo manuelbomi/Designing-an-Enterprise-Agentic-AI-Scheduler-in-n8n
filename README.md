@@ -48,6 +48,27 @@ AI Agent:
 ```
 ---
 
+Below are figures showing how the Agent converse with users and execute its job via the n8n user interface:
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8a0eab77-491f-422c-b30e-6ea04a759b6d" />
+
+---
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/4c3525f2-6fde-46d0-9602-54818b9fe41f" />
+
+---
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d8fd1ace-5c57-4d17-b67b-1180e77bb7be" />
+
+---
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b590f247-6224-4cd1-857e-97d90eadff66" />
+
+---
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/97389d95-9bf3-4698-bc7d-3d4c079b3fb6" />
+
+---
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/fd1b743d-e67b-4ee4-baab-01299e3adca2" />
+
+
+
 
 
 
