@@ -24,10 +24,12 @@
 
 
 
+Thank you for reading
 
-
+---
 
 ### **AUTHOR'S BACKGROUND**
+
 ### Author's Name:  Emmanuel Oyekanlu
 ```
 Skillset:   I have experience spanning several years in data science, developing scalable enterprise data pipelines,
