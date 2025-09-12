@@ -8,6 +8,12 @@
 
 #### Redears can also deploy the Agent by cloning the .json file in the repo. A full discourse on how the solution architect can accomplish that is also avaialble here: https://github.com/manuelbomi/Enterprise-Agentic-AI---Scalable-Meeting-Orchestration-with-n8n
 
+#### This is the Agentic AI Scheduler that was designed by following the procedures outlined in this discourse:
+
+<img width="995" height="360" alt="Image" src="https://github.com/user-attachments/assets/dd82a6d4-4ac7-4d79-a12c-b4c199760e51" />
+
+--- 
+
 
 
 
