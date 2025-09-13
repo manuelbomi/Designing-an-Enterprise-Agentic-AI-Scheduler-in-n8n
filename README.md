@@ -173,6 +173,102 @@ AI Agent:
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/653dfe21-e9db-4247-bec0-66d373138736" />
 ---
 
+#### Go back to ur n8n and copy your OAuth Redirect URL
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a645e11a-b270-42a4-b540-cd25910d6474" />
+---
+
+#### Paste it on the GCP Authorized URI and click on create
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/96d94078-23e1-4ead-81bf-2a793d3bcd5a" />
+---
+
+#### Now, copy the client ID it gave you
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/267eedda-6fbe-42c2-a769-48848513550e" />
+---
+
+#### Paste it onto client ID on your n8n
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9dfb953a-b371-42bf-ac54-a3f89d05857a" />
+---
+
+#### Now click Done on your GCP
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/07c3bf9d-ba55-4f6b-8863-dd37079d2755" />
+---
+
+####  Go to credentials on your GCP
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/dbbd3a1b-b11e-49d8-8b18-2e95a164966f" />
+---
+
+####  Click the Edit OAuth client button
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/80783532-7c1c-4823-b38b-52a4813cc21e" />
+---
+
+#### Copy the client secret
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3f3a4eab-176c-4d67-8316-b932d282c41e" />
+---
+
+#### Put it under secrets in your n8n workflow
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ccb22fc2-e22b-4be2-a794-0ad69bfc99e1" />
+---
+
+#### Now, click on sign in with Google and select your Google account
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a2e5af16-3b20-4d95-a2d2-1310d9f1f3dd" />
+---
+
+#### Some error block
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/19e06206-6b73-4024-b5db-71bbd01d274e" />
+---
+
+#### Under the test users section, click add user
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9f704b83-81f5-4f36-9c99-10967ba01006" />
+---
+
+#### It will run through some housekeeping details
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/623bcda7-8f12-44aa-bfc8-3eb5247c93bc" />
+---
+
+#### You will now see connection successfull
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ca4da432-8e33-496d-a27a-ecfc06493326" />
+---
+
+####  You will also see account connected on your n8n
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/5f1c8d27-959e-4c32-8d9c-debd31819297" />
+---
+
+#### You will now see that you can connect to your google calendar thru OAuth2
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/07baf221-2c4a-41f6-a386-6fe9b6ab46a5" />
+---
+
+#### Select Tool Description Description Resources Operations Calendar as shown
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8bfa10f8-acdf-4faf-906e-fcffedd4e5b2" />
+---
+
+#### For the start and end date, hover on the link to include an expression
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8b832729-d4ad-46be-88d1-d7ee7bb20af2" />
+---
+
+#### Include the start end data rage expression as shown
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/174ec36c-9e37-4ae5-93dd-40b4b2a269f6" />
+---
+
+####  Under Add field include Summmary or any other details that you want such as the number of guests
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b169e11a-af40-4d6f-a596-605565656eba" />
+---
+
+#### You can also add a description field under expression
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c3d7d1ae-d634-436e-99f5-073a1d8a138b" />
+---
+
+#### Click back to canvas
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1635b8f5-35cf-4ef5-8355-bc5577e293f3" />
+---
+
+#### The calendar agent in its current state
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/86a4eb66-6f96-490a-8ea5-51f667d8f54a" />
+---
+
+
+
+
 
 
 
