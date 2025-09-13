@@ -121,6 +121,60 @@ AI Agent:
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b4e272e7-ea49-4bd4-8667-73e123d5e607" />
 ---
 
+####  To Enable APIs, click on your list of projects on your Google Console and select the n8n Agent project
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8dc07c8e-29ea-44c5-993a-432bab3fa7bb" />
+
+---
+
+#### On the project, click on APIs and Services
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/76b7fd04-e09d-42b2-a49a-b01f301ab2e0" />
+---
+
+#### Click Enable APIs and Services
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3106ccf0-26a2-4d67-b38d-bfbd83955d7f" />
+
+---
+
+#### Search for calendar
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7e015c8c-8bd0-4f73-871f-d861121565fc" />
+
+---
+
+#### Select the Google Calendar API and click Enable
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/bf0a9a33-3b7c-4a01-ba1c-0ac7327f2e17" />
+---
+
+####  Click Enable and select create credentials
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9011663c-cb72-4eec-b505-b2ef69e479e4" />
+---
+
+#### Select user data and click next
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/92d94c11-8621-4e8b-8235-313b3ea7edca" />
+---
+
+#### Give the app a name and supply user support email and developer contact info save and continue
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/20727461-32ef-42c0-b12c-4edd8b2e0e5b" />
+---
+
+####  Click save and continue again
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ce30bd3c-41f9-493e-89f3-3534ca22be0d" />
+---
+
+#### Under OAuth Client ID select web application
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/133c6ea1-1af1-443b-80d3-e36ee101a87e" />
+---
+
+####  Give it a name eg n8n agent
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c1a502a3-dead-4737-87ab-d88264c96617" />
+---
+
+#### Under Authorized Redirect URI click ADD URI
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/653dfe21-e9db-4247-bec0-66d373138736" />
+---
+
+
+
 
 
 
