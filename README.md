@@ -77,6 +77,25 @@ AI Agent:
 
 ----
 
+####  Select credentials and create new credentials
+
+#### Create new credential
+
+#### Click inside Client ID and click on Open Docs
+
+#### Ff you decide to use the OAuth method, follow the instructions on Google Docs by opening Google Console and create a project on Google Console
+
+#### On Google Cloud Console go to your console
+
+#### Go to your GCP console
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/dfc23e45-f446-4f9f-ba32-6f7289fe83f8" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/4e3ea6eb-c2f1-4896-908c-b340f304740e" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f783f56c-689d-4f95-825a-4e312421179a" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/bc73a87c-1149-4c81-ae39-d81a0106dfaa" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7de85d68-0283-432e-8fe0-588202a3c80a" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/4ca63dec-1e0c-473d-a40c-18ba5df6bb92" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b010fde2-ae3e-4608-b10f-b62191944acf" />
 
 
 
