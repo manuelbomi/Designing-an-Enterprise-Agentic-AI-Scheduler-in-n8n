@@ -74,27 +74,26 @@ AI Agent:
 ---
 #### Search for Google Calendar under Tools
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/cb0f66d9-9344-47a0-8cb5-2e590b043092" />
+
 ----
 
 ####  Select credentials and create new credentials
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a3cb18f0-96d2-419d-99a5-714a5a23eabf" />
 
 ---
 #### Create new credential
-
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/15f61e42-7f49-44c7-bc19-cfc23edd2772" />
 
 ---
 
 #### Click inside Client ID and click on Open Docs
-
-
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/732bd59e-fa03-4b95-bda2-73aeece6f777" />
 
 ---
 
-#### Ff you decide to use the OAuth method, follow the instructions on Google Docs by opening Google Console and create a project on Google Console
+#### If you decide to use the OAuth method, follow the instructions on Google Docs by opening Google Console and create a project on Google Console
 
-
-
-
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1817d0a9-e63f-43e0-8233-749e8397215d" />
 ---
 
 #### On Google Cloud Console go to your console
