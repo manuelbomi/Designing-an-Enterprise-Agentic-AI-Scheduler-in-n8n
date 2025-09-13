@@ -98,17 +98,32 @@ AI Agent:
 
 #### On Google Cloud Console go to your console
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/521751ac-1e05-459e-b2c2-e944a50701a1" />
 
 ---
 #### Go to your GCP console
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/beca39c5-43d5-4a88-9d77-13276d625f28" />
+---
+
+#### Click on your current project e g the SQL-query-optimization project and create a new project
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/4ef17553-b2d3-4d40-a97b-71331730e92b" />
+
+---
+
+####  Give it a name and create the  project
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3ab1fab2-3c15-444d-aad4-bd674fd914a4" />
+---
+
+#### Go back to the Set Up OAuth page on Google Docs i e Enable APIs
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b4e272e7-ea49-4bd4-8667-73e123d5e607" />
+---
 
 
 
 
-
-
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b010fde2-ae3e-4608-b10f-b62191944acf" />
 
 
 
